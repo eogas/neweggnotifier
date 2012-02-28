@@ -23,7 +23,7 @@ Note: Any GUI solution will no longer require growl for desktop notifications, h
 
 ### credits
 
-A lot of the credit for this project needs to go to [James Sumners](https://bitbucket.org/jsumners) for his PyNotifo module and to [Douglas Hall](http://www.bemasher.net/) for his research on Newegg's unofficial JSON API.  These guys made it possible for me to write the initial implementation in a number of hours.
+A lot of the credit for this project needs to go to [James Sumners](http://jrfom.com/) for his PyNotifo module and to [Douglas Hall](http://www.bemasher.net/) for his research on Newegg's unofficial JSON API.  These guys made it possible for me to write the initial implementation in a number of hours.
 
 * https://bitbucket.org/jsumners/pynotifo
 * http://www.bemasher.net/archives/1002

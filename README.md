@@ -1,5 +1,8 @@
 ## neweggnotifier
 
+### DISCLAIMER
+**This project is defunct**, primarily because notifo doesn't exist anymore.  This was just a cool little one-off project that I hacked together at 3 AM to try to get a good deal on a graphics card, and it served its purpose at the time.  As of now, I am just leaving it up for educational purposes.  
+
 ### summary
 neweggnotifier is a quick little project I wrote to check up on a specified list of newegg products, and report price drops using notifo.  The impetus for this project was mostly based on my overheating 9600 gt and a severe case of 'broke college student'.
 
